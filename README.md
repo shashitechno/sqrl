@@ -25,9 +25,14 @@ This Wordpress plugin designed to fetch wall feeds' data from Facebook pages and
 
 In order to add a new feed you need to know its ID. Page IDs are provided by Facebook Graph. To obtain page's ID follow the following steps:
 
-Manually:
+**Manually:**
+
 1. Visit a Facebook page of your choice
 2. Copy it's name. For example, from `https://www.facebook.com/Batman` the name would be `Batman`
 3. Navigate to https://graph.facebook.com/PAGE_NAME. In our example: https://graph.facebook.com/Batman
 4. In the output find: `"id": "6939574006"`
 5. Copy that ID to appropriate field in the plugin page, fill in the fetch limit (and optionally image sizes) and press Create new.
+
+**Automatically, using findmyfacebookid.com**
+- Just visit the site http://findmyfacebookid.com and provide it with URL of page you wish to get ID of
+
