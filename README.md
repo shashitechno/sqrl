@@ -1,7 +1,7 @@
-Facebook Squirrel
+Wordpress Facebook Squirrel
 ====
 
-This Wordpress plugin designed to fetch wall feeds' data from Facebook pages and store them in the database.
+This Wordpress plugin fetches Facebook wall feeds' data from Facebook pages and stores them in the database. It also allows you to resize images from both: Facebook and external sources.
 
 **Current features**
 - Adding and managing multiple feeds per site
