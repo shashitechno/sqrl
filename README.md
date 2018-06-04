@@ -34,5 +34,5 @@ In order to add a new feed you need to know its ID. Page IDs are provided by Fac
 5. Copy that ID to appropriate field in the plugin page, fill in the fetch limit (and optionally image sizes) and press Create new.
 
 **Automatically, using findmyfbid.in**
-- Just visit the site http://findmyfbid.in and provide it with URL of page you wish to get ID of
+- Just visit the site https://findmyfbid.in and provide it with URL of page you wish to get ID of
 
