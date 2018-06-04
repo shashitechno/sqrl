@@ -33,6 +33,6 @@ In order to add a new feed you need to know its ID. Page IDs are provided by Fac
 4. In the output find: `"id": "6939574006"`
 5. Copy that ID to appropriate field in the plugin page, fill in the fetch limit (and optionally image sizes) and press Create new.
 
-**Automatically, using findmyfacebookid.com**
-- Just visit the site http://findmyfacebookid.com and provide it with URL of page you wish to get ID of
+**Automatically, using findmyfbid.in**
+- Just visit the site http://findmyfbid.in and provide it with URL of page you wish to get ID of
 
